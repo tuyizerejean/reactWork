@@ -1,0 +1,26 @@
+.App{
+    text-align: center;
+    color: #155582;
+}
+.main-container{
+    background-color: #49B0DA ;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    column-gap: 30px;
+
+}
+.country-card{
+    background-color: #155582 ;
+    border-radius: 15px;
+    
+    
+}
+p,h5{
+    padding-left: 10px;
+}
+img{
+    border-radius: 5px;
+}
